@@ -1,0 +1,36 @@
+{
+    "nombreApp" : "Componentes",
+    "rutas" : [
+        {
+            "ruta" : "home_temp",
+            "icon" : "add_alert",
+            "texto": "home_temp"
+        },
+        {
+            "ruta" : "home_temp1",
+            "icon" : "accessibility",
+            "texto": "home_temp1"
+        },
+        {
+            "ruta" : "home_temp2",
+            "icon" : "folder_open",
+            "texto": "home_temp2"
+        },
+        {
+            "ruta" : "alert",
+            "icon" : "add_alert",
+            "texto": "Alertas"
+        },
+        {
+            "ruta" : "avatar",
+            "icon" : "accessibility",
+            "texto": "Avatars"
+        },
+        {
+            "ruta" : "card",
+            "icon" : "folder_open",
+            "texto": "Cards - Tarjetas"
+        }
+    ]
+    
+}

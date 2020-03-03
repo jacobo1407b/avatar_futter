@@ -7,6 +7,7 @@ import '../home_page.dart';
 import '../home_temp.dart';
 import '../home_temp1.dart';
 import '../home_temp2.dart';
+import '../input_page.dart';
 
 Map<String, WidgetBuilder> getApplicationRoutes() {
   return <String, WidgetBuilder>{
@@ -17,5 +18,6 @@ Map<String, WidgetBuilder> getApplicationRoutes() {
     'home_temp1':(BuildContext context)=> HomePageTemp1(),
     'home_temp2':(BuildContext context)=>HomePageTemp2(),
     'card': (BuildContext contexto) => CardsPage(),
+    'inputs': (BuildContext contexto) => InputPage(),
   };
 }
